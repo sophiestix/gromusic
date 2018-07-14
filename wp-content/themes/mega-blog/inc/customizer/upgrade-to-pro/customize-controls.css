@@ -1,0 +1,24 @@
+#customize-controls .control-section-mega-blog .accordion-section-title:hover,
+#customize-controls .control-section-mega-blog .accordion-section-title:focus {
+	background-color: #333;
+	color: #fff;
+}
+
+.control-section-mega-blog .accordion-section-title .button {
+	margin-top:  -4px;
+	font-weight: 400;
+	margin-left: 8px;
+	background-color: #cea35f;
+	border-color: #cea35f;
+	color: #000;
+}
+
+.rtl .control-section-mega-blog .accordion-section-title .button {
+	margin-left:  0;
+	margin-right: 8px;
+}
+
+li#accordion-section-mega-blog h3.accordion-section-title {
+    background-color: #333;
+    color: #fff;
+}

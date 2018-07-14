@@ -1,0 +1,403 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: webblog\n"
+"POT-Creation-Date: 2018-06-11 17:42+0530\n"
+"PO-Revision-Date: 2018-06-11 17:42+0530\n"
+"Last-Translator: \n"
+"Language-Team: themeorigin\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:16
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: comments.php:33
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:39
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:53
+msgid "Reply"
+msgstr ""
+
+#: comments.php:59 single.php:21
+msgid "Previous"
+msgstr ""
+
+#: comments.php:60 single.php:24
+msgid "Next"
+msgstr ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:29
+msgid "Footer Social Links Menu"
+msgstr ""
+
+#: functions.php:43
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:92
+msgid "Default Header Image"
+msgstr ""
+
+#: functions.php:155 sidebar.php:13
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:157
+msgid ""
+"Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr ""
+
+#: functions.php:165
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:167 functions.php:177 functions.php:186 functions.php:195
+msgid "Add widgets here to appear in your footer."
+msgstr ""
+
+#: functions.php:175
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:184
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:193
+msgid "Footer 4"
+msgstr ""
+
+#: functions.php:218
+#, php-format
+msgid "read more<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: header.php:69
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: header.php:100
+msgid "header-banner"
+msgstr ""
+
+#: include/customizer.php:39
+msgid "Theme Options"
+msgstr ""
+
+#: include/customizer.php:48
+msgid "Header Options"
+msgstr ""
+
+#: include/customizer.php:65
+msgid "Sticky Header"
+msgstr ""
+
+#: include/customizer.php:75
+msgid "Breadcrumb Options"
+msgstr ""
+
+#: include/customizer.php:93
+msgid "Breadcrumb Type"
+msgstr ""
+
+#: include/customizer.php:98 include/customizer.php:160
+msgid "Disable"
+msgstr ""
+
+#: include/customizer.php:99
+msgid "Normal"
+msgstr ""
+
+#: include/customizer.php:108
+msgid "Footer Options"
+msgstr ""
+
+#: include/customizer.php:126
+msgid "Copyright Text"
+msgstr ""
+
+#: include/customizer.php:137
+msgid "Back To Top Options"
+msgstr ""
+
+#: include/customizer.php:155
+msgid "Active?"
+msgstr ""
+
+#: include/customizer.php:161
+msgid "Enable"
+msgstr ""
+
+#: include/customizer.php:169
+msgid "Slider Option"
+msgstr ""
+
+#: include/customizer.php:187
+msgid "Post Slider"
+msgstr ""
+
+#: include/customizer.php:188
+msgid "Note: Hide Header Image If you Want Post Slider."
+msgstr ""
+
+#: include/customizer.php:207
+msgid "Number Of Slider"
+msgstr ""
+
+#: include/customizer.php:212
+msgid "2"
+msgstr ""
+
+#: include/customizer.php:213
+msgid "3"
+msgstr ""
+
+#: include/customizer.php:214
+msgid "4"
+msgstr ""
+
+#: include/customizer.php:215
+msgid "5"
+msgstr ""
+
+#: include/customizer.php:232
+msgid "Post Navigation"
+msgstr ""
+
+#: include/customizer.php:250
+msgid "Post Pagination"
+msgstr ""
+
+#: include/customizer.php:260 include/customizer.php:278
+msgid "Post Excerpt"
+msgstr ""
+
+#: include/customizer.php:295
+msgid "Excerpt Length"
+msgstr ""
+
+#: include/customizer.php:296
+msgid "Note: Use Positive Numbers from 1."
+msgstr ""
+
+#: include/customizer.php:426
+msgid "Copyright &copy; All rights reserved."
+msgstr ""
+
+#: include/template-tags.php:42
+#, php-format
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: search.php:35
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: searchform.php:15
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:16
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:20
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: template-parts/footer/site-info.php:19
+msgid "http://www.themeorigin.com/"
+msgstr ""
+
+#: template-parts/footer/site-info.php:21
+#, php-format
+msgid "Designed by %s"
+msgstr ""
+
+#: template-parts/footer/widgets.php:41
+msgid "Footer"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:245
+msgid "Browse:"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:246
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:247
+msgid "Home"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:248
+msgid "404 Not Found"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:249
+msgid "Archives"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:251
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:253
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:255
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:257
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:259
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:719
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:736
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:753
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:769
+#: template-parts/header/breadcrumb.php:798
+#: template-parts/header/breadcrumb.php:825
+#: template-parts/header/breadcrumb.php:852
+#: template-parts/header/breadcrumb.php:1192
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:770
+#: template-parts/header/breadcrumb.php:826
+#: template-parts/header/breadcrumb.php:1196
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:771
+#: template-parts/header/breadcrumb.php:1200
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:799
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: template-parts/page/content-page.php:22
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/post/content-none.php:12
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/post/content-none.php:18
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/post/content-none.php:22
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/post/content.php:36 template-parts/post/slider.php:76
+msgid "Read More"
+msgstr ""
+
+#: template-parts/post/content.php:37
+msgid "read more"
+msgstr ""
+
+#: widgets/widget-layout.php:15
+msgid "Recent Blog Post - Webblog"
+msgstr ""
+
+#: widgets/widget-layout.php:16
+msgid "Recent Blog Post"
+msgstr ""
+
+#: widgets/widget-layout.php:33
+msgid "Post Title:"
+msgstr ""
+
+#: widgets/widget-layout.php:37
+msgid "Post Category:"
+msgstr ""
+
+#: widgets/widget-layout.php:47
+msgid "Choose Category"
+msgstr ""
+
+#: widgets/widget-layout.php:53
+msgid "Number Of Post: "
+msgstr ""
+
+#: widgets/widget-layout.php:129
+msgid "No Comments"
+msgstr ""
+
+#: widgets/widget-layout.php:131
+msgid " Comments"
+msgstr ""
+
+#: widgets/widget-layout.php:133
+msgid "1 Comment"
+msgstr ""
